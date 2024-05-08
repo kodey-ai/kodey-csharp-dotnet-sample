@@ -18,6 +18,8 @@ In this sample, we will explore how Kodey.ai can create projects for csharp dot 
 
 ### SAMPLE PROMPT - Github Tools (Sample Web App with Csharp DOT NET)
 ```
+    platform: github
+
     repository to work on: kodey-csharp-web-sample
 
     branch name to create: feature/csharp-web-sample-v6
@@ -48,6 +50,8 @@ In this sample, we will explore how Kodey.ai can create projects for csharp dot 
 
 ### SAMPLE PROMPT - Azure DevOps Tools (Sample Web App with Csharp DOT NET)
 ```
+    platform: azure
+    
     repository to work on: kodey-csharp-web-sample
 
     branch name to create: feature/csharp-web-sample-v6
@@ -77,6 +81,8 @@ In this sample, we will explore how Kodey.ai can create projects for csharp dot 
 
 ### SAMPLE PROMPT - Jira / Bitbucket (Sample Web App with Csharp DOT NET)
 ```
+    platform: bitbucket
+
     repository to work on: kodey-csharp-web-sample
 
     branch name to create: feature/csharp-web-sample-v6
